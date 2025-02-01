@@ -1,1 +1,2 @@
-dies sind die mods fuer unsere kack welt
+Server-IP: quantumblocks.aternos.me
+Mods: -> Ordner "Mods"
